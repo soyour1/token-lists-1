@@ -1,9 +1,14 @@
 {
-    "name": "RubikExchange Default",
+    "name": "PancakeSwap Default",
     "timestamp": "2022-03-01T08:37:04.410Z",
+    "version": {
+        "major": 2,
+        "minor": 16,
+        "patch": 5
+    },
     "logoURI": "https://pancakeswap.finance/logo.png",
     "keywords": [
-        "sonsparkminds",
+        "pancakeswap",
         "default"
     ],
     "tokens": [
@@ -11,7 +16,7 @@
             "name": "Tether USD",
             "symbol": "USDT",
             "address": "0x55d398326f99059fF775485246999027B3197955",
-            "chainId": 56,
+            "chainId": 0,
             "decimals": 18,
             "image": "https://pancakeswap.finance/images/tokens/0x55d398326f99059fF775485246999027B3197955.png"
         },
