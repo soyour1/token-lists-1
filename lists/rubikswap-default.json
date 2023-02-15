@@ -1,5 +1,5 @@
 {
-    "name": "PancakeSwap Default",
+    "name": "Son Default",
     "timestamp": "2022-03-01T08:37:04.410Z",
     "version": {
         "major": 2,
@@ -8,7 +8,7 @@
     },
     "logoURI": "https://pancakeswap.finance/logo.png",
     "keywords": [
-        "pancakeswap",
+        "son",
         "default"
     ],
     "tokens": [
