@@ -1,5 +1,5 @@
 {
-    "name": "Son Default",
+    "name": "asdasd asda",
     "timestamp": "2022-03-01T08:37:04.410Z",
     "version": {
         "major": 2,
@@ -11,6 +11,7 @@
         "son",
         "default"
     ],
+    "additionalProperties": true,
     "tokens": [
         {
             "name": "WBNB Token",
